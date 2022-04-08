@@ -7,9 +7,9 @@ body{
 }
 
 #profile-pic{
-	width:150px;
-	height: 150px;
-	border-radius: 50%;
+	width:100px;
+	height: 100x;
+	border-radius: 25%;
 	margin-left: auto;
   	margin-right: auto;
 }
@@ -29,3 +29,16 @@ ul{
 	width:20px;
 	height: 20px;
 }
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+ }
+
